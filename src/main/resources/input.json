@@ -1,0 +1,9 @@
+[{
+  "format":"geotiff",
+  "name":"etlTest1",
+  "cache":"NONE",
+  "backend":{
+    "type":"hadoop",
+    "path":"F:/data/class_5.tif"
+  }
+}]

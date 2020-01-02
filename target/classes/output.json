@@ -1,0 +1,15 @@
+{
+  "backend": {
+    "type": "file",
+    "path": "F:/data/output"
+  },
+  "reprojectMethod": "buffered",
+  "pyramid": true,
+  "tileSize": 256,
+  "keyIndexMethod": {
+    "type": "zorder"
+  },
+  "resampleMethod": "nearest-neighbor",
+  "layoutScheme": "zoomed",
+  "crs": "EPSG:4326"
+}
